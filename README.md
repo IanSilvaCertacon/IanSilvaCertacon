@@ -5,7 +5,7 @@
 
 - 🤔 &nbsp; Learning backend tecnologies.
 - 🎓 &nbsp; Computer Engineering <a href="https://www.usjt.br/">USJT</a>.
-- 💼 &nbsp; Java Backend Developer at <a href="https://certacon.com.br/">Certacon</a>
+
 
 <h3> :rocket: &nbsp;Skills </h3>
 
