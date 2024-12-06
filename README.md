@@ -3,10 +3,8 @@
 
 <h3> 😊: &nbsp;About</h3> 
 
-- 🕐 &nbsp; 1 year coding.
 - 🤔 &nbsp; Learning backend tecnologies.
-- 🎓 &nbsp; Analysis and systems development at <a href="https://www.sp.senai.br/">ETEC</a>.
-- 🎓 &nbsp; Information Systems - Soft Engineering & DevOps at <a href="https://www.jorgestreet.com.br/">ETEC</a>.
+- 🎓 &nbsp; Computer Engineering <a href="https://www.usjt.br/">USJT</a>.
 - 💼 &nbsp; Java Backend Developer at <a href="https://certacon.com.br/">Certacon</a>
 
 <h3> :rocket: &nbsp;Skills </h3>
