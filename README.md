@@ -35,4 +35,9 @@
 
 [![Linkedin: IanSilva](https://img.shields.io/badge/LinkedIn-IanSilva-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/ian-felopesil)
 
-
+<picture>
+  <source media="(prefers-color-scheme: dark)"  
+          srcset="https://raw.githubusercontent.com/IanSilvaCertacon/IanSilvaCertacon/main/dist/github-snake-dark.svg">
+  <img alt="GitHub Contribution Snake"  
+       src="https://raw.githubusercontent.com/IanSilvaCertacon/IanSilvaCertacon/main/dist/github-snake.svg">
+</picture>
