@@ -1,0 +1,22 @@
+name: Gerar GitHub Contribution Snake
+on:
+  schedule:
+    # executa todo dia à meia-noite
+    - cron: '0 0 * * *'
+  workflow_dispatch:
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout do repositório
+        uses: actions/checkout@v3
+
+      - name: Gerar SVG da cobrinha
+        uses: Platane/snk/svg-only@v3
+        with:
+          # pega o nome do usuário do contexto do workflow
+          github_user_name: ${{ github.repository_owner }}
+          # gera um SVG claro; se quiser versão dark, acrescente outra linha com '?palette=github-dark'
+          outputs: |
+            dist/github-snake.svg
+            dist/github-snake-dark.svg?palette=github-dark
