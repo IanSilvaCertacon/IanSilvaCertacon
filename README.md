@@ -44,3 +44,6 @@
        src="https://raw.githubusercontent.com/IanSilvaCertacon/IanSilvaCertacon/main/dist/github-snake.svg" />
 </picture>
 
+### 🐍 Snake Commit Animation
+
+![snake gif](https://github.com/IanSilvaCertacon/IanSilvaCertacon/blob/output/github-contribution-grid-snake.svg)
