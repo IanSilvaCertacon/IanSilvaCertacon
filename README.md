@@ -36,14 +36,7 @@
 [![Linkedin: IanSilva](https://img.shields.io/badge/LinkedIn-IanSilva-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/ian-felopesil)
 
 <picture>
-  <source media="(prefers-color-scheme: dark)"
-          srcset="https://raw.githubusercontent.com/IanSilvaCertacon/IanSilvaCertacon/main/dist/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)"
-          srcset="https://raw.githubusercontent.com/IanSilvaCertacon/IanSilvaCertacon/main/dist/github-snake.svg" />
-  <img alt="GitHub Contribution Snake"
-       src="https://raw.githubusercontent.com/IanSilvaCertacon/IanSilvaCertacon/main/dist/github-snake.svg" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/IanSilvaCertacon/IanSilvaCertacon/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/IanSilvaCertacon/IanSilvaCertacon/output/github-snake.svg" />
+  <img alt="GitHub Contribution Snake" src="https://raw.githubusercontent.com/IanSilvaCertacon/IanSilvaCertacon/output/github-snake.svg" />
 </picture>
-
-### 🐍 Snake Commit Animation
-
-![snake gif](https://github.com/IanSilvaCertacon/IanSilvaCertacon/blob/output/github-contribution-grid-snake.svg)
